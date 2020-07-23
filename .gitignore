@@ -1,0 +1,15 @@
+# Ignore solution file
+*.sln
+
+# Ignore build folders
+Debug/*
+Release/*
+
+# Ignore project folder
+ByteStreams/*
+
+# Project settings
+.vs/*
+
+# Local test files
+assets/*
